@@ -1722,7 +1722,7 @@ $(function () {
                                     top: '0%',
                                     textStyle: {
                                         color: '#fff',
-                                        fontSize: 25
+                                        fontSize: 15
                                     }
                                 }
                             ],
