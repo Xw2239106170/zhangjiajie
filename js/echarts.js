@@ -1719,7 +1719,7 @@ $(function () {
                                     id: 'statistic',
                                     text: year[n] + "数据统计情况",
                                     left: '75%',
-                                    top: '8%',
+                                    top: '2%',
                                     textStyle: {
                                         color: '#fff',
                                         fontSize: 25
