@@ -56,7 +56,7 @@ $(function () {
             legend: {
                 orient: "vartical",
                 x: "left",
-                top: "center",
+                top: "centre",
                 left: "53%",
                 bottom: "0%",
                 data: xdata,
